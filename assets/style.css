@@ -1,0 +1,45 @@
+* {
+    font-family: 'montserrat';
+}
+
+header {
+    position: fixed;
+    border-bottom: solid 2px black;
+    top: 0;
+    width: 100%;
+    background: white;
+}
+
+h1 {
+    font-family: 'montserrat';
+    text-align: center;
+
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+}
+
+#section-1 {
+    margin-top: 150px;
+
+}
+
+section {
+    margin-top: 50px;
+}
+
+body {
+    text-align: center;
+}
+
+.nav {
+    position: relative;
+    left: 250px;
+
+}
+
+#github, #portfolio, #contact {
+    padding-right: 20px;
+}
